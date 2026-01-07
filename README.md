@@ -11,19 +11,6 @@
 
 ---
 
-### Connect with me
-<p align="left">
-  <a href="https://fb.com/owen" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-         alt="facebook" width="30" height="30"/>
-  </a>
-  <a href="https://instagram.com/0wenx.m" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="instagram" width="30" height="30"/>
-  </a>
-</p>
-
----
 
 ## Languages
 <p align="left">
