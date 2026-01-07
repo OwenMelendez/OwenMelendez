@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Owen Melendez</h1>
-<h3 align="center">A passionate Jr Developer from Cartagena,Colombia🇨🇴👨‍💻</h3>
+<h3 align="center">A passionate Developer from Cartagena,Colombia🇨🇴👨‍💻</h3>
 
 
 - 🌱 I’m currently learning **more programming languages and frameworks to upgrade my level**
